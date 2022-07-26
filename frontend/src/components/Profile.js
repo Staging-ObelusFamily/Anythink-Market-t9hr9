@@ -114,7 +114,7 @@ class Profile extends React.Component {
   }
 
   render() {
-    const profile = this.props.profile;
+    const pzzzzzzzrofile = this.props.profile;
     if (!profile) {
       return null;
     }
